@@ -1,5 +1,4 @@
-
-echo "# Maaz Ahmad
+ "# Maaz Ahmad
 ## Student @ PAF-IAST
 
 I am a Bachelor of Science student in Artificial Intelligence at PAF-IAST University.  
