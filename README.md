@@ -18,8 +18,8 @@ Skilled in Python, algorithms, and AI fundamentals, with hands-on experience in 
 
 ### Education
 
-**Bachelor of Science (BS) in Computer Science**  
-University of PAF-IAST, Haripur, KPK, Pakistan  
+**Bachelor of Science (BS) in Artificial Intelligence**  
+ @ University of PAF-IAST, Haripur, KPK, Pakistan  
 2023 - 2025  
 
 **FSc (Pre-Medical)**  
